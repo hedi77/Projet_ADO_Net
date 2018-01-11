@@ -11,6 +11,7 @@ namespace GrandHotel.Pages
     {
         public Page_GestionDesClients() : base ("GestionDesClients", false)
         {
+            //...
 
         }
     }

@@ -10,6 +10,8 @@ namespace GrandHotel
 {
     public class DAL :DbContext,IDataContext
     {
+        
+        //public DbSet<Client> Clients { get; set; }
         //public static IList<string> GetPaysFournisseurs()
         //{
         //    var list = new List<string>();
@@ -33,6 +35,13 @@ namespace GrandHotel
         //    }
         //    return list;
         //}
+        /*
+        public IList<Client> GetClients()
+        {
+            Clients.Load();
+
+            return Clients.Local;
+        }*/
 
 
 

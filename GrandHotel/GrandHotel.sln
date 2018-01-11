@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrandHotel", "GrandHotel\GrandHotel.csproj", "{00A46699-B15B-4E28-8F27-263683AB6C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TConsole", "..\..\Projet\Outils\Console\TConsole.csproj", "{222ADAFA-6E7D-404C-A04D-DB30BDF702A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A46699-B15B-4E28-8F27-263683AB6C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A46699-B15B-4E28-8F27-263683AB6C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A46699-B15B-4E28-8F27-263683AB6C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A46699-B15B-4E28-8F27-263683AB6C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222ADAFA-6E7D-404C-A04D-DB30BDF702A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222ADAFA-6E7D-404C-A04D-DB30BDF702A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222ADAFA-6E7D-404C-A04D-DB30BDF702A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222ADAFA-6E7D-404C-A04D-DB30BDF702A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645AA8B2-4818-43D3-A2CE-A03AFD1574DE}
+	EndGlobalSection
+EndGlobal
